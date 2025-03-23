@@ -91,6 +91,9 @@ Artigos que produzi sobre alguns desses treinamentos/certificações:
 
 [**Certificação Gratuita em Inteligência Artificial: Securing LLM & NLP APIs**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-em-intelig%C3%AAncia-artificial-securing-llm-nlp-apis-bd8446c38a70)
 
+[**Certificação Gratuita em Segurança de APIs REST: Securing API Servers**]([**Certificação Gratuita em Inteligência Artificial: Securing LLM & NLP APIs**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-em-intelig%C3%AAncia-artificial-securing-llm-nlp-apis-bd8446c38a70)
+)
+
 Playlist com vídeos sobre cursos/certificações gratuitos da APIsec University: [**YouTube | Canal .NET**](https://www.youtube.com/playlist?list=PLAbYWcQD84aOVPmfYElgDdL6s6OrpwSGC)
 
 ## Playlists com vídeos do YouTube sobre segurança de APIs
