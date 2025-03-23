@@ -69,7 +69,9 @@ columns 1
 *ATENÇÃO: Maiores detalhes podem ser encontrados em: https://genai.owasp.org/llm-top-10-2023-24/*
 
 Vídeos sobre Segurança em soluções de Inteligência Artificial:
-- [**Mesa Redonda #208: Criando Soluções de Inteligência Artificial mais seguras - OWASP, dicas...**](https://www.youtube.com/watch?v=RbEdXJ214wY)
+- [**Mesa Redonda #208: Criando Soluções de Inteligência Artificial mais seguras - OWASP, dicas... | Coding Night**](https://www.youtube.com/watch?v=RbEdXJ214wY)
+- [**Mesa Redonda #209: Criando Soluções de Inteligência Artificial mais seguras - OWASP, dicas... - 2a edição | Coding Night**](https://www.youtube.com/watch?v=vQtuuFF1i_M)
+- [**Mesa Redonda #214: Criando Soluções de Inteligência Artificial mais seguras - OWASP, dicas... - 3a edição | Coding Night**](https://www.youtube.com/watch?v=20biIOOvzJE)
 
 ## Certificações Gratuitas da APIsec University
 
