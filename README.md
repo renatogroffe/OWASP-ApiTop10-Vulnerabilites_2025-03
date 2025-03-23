@@ -49,7 +49,7 @@ columns 1
 
 Vídeos sobre Segurança em Containers:
 - [**Mesa Redonda #210: Segurança em Containers - boas práticas, dicas, pontos de atenção... | Coding Night**](https://www.youtube.com/watch?v=3q-uwtaqfLU)
-- [**Mesa Redonda #213: Segurança em Containers - boas práticas, dicas, pontos de atenção... | 2a edição | Coding Night**](https://www.youtube.com/watch?v=2sZZmiGEPPo)
+- [**Mesa Redonda #213: Segurança em Containers - boas práticas, dicas, pontos de atenção... - 2a edição | Coding Night**](https://www.youtube.com/watch?v=2sZZmiGEPPo)
 
 ### OWASP Top 10 for LLMs and Gen AI Apps
 
