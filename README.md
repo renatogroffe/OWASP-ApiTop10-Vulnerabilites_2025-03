@@ -42,10 +42,14 @@ columns 1
   G["D07 - Resource Protection"]
   H["D08 - Container Image Integrity and Origin"]
   I["D09 - Follow Immutable Paradigm"]
-  J["D10 - Logging3"]
+  J["D10 - Logging"]
 ```
 
 *ATENÇÃO: Esta lista ainda se encontra em desenvolvimento. Maiores detalhes podem ser encontrados em: https://github.com/OWASP/Docker-Security*
+
+Vídeos sobre Segurança em Containers:
+- [**Mesa Redonda #210: Segurança em Containers - boas práticas, dicas, pontos de atenção... | Coding Night**](https://www.youtube.com/watch?v=3q-uwtaqfLU)
+- [**Mesa Redonda #213: Segurança em Containers - boas práticas, dicas, pontos de atenção... | 2a edição | Coding Night**](https://www.youtube.com/watch?v=2sZZmiGEPPo)
 
 ### OWASP Top 10 for LLMs and Gen AI Apps
 
